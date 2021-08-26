@@ -1,28 +1,28 @@
 # depslib dependency file v1.0
-1629898966 source:c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\main.cpp
+1629926335 source:c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\main.cpp
 	"Services.h"
 	"Account.h"
 	<iostream>
 	<ctime>
 	<cstdlib>
 
-1629898751 source:c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\account.cpp
+1629926335 source:c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\account.cpp
 	"Account.h"
 	<iostream>
 	<ctime>
 	<cstdlib>
 
-1629897670 c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\account.h
+1629925191 c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\account.h
 	<iostream>
 
-1629897617 source:c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\services.cpp
+1629926335 source:c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\services.cpp
 	"Services.h"
 	"Account.h"
 	<iostream>
 	<ctime>
 	<cstdlib>
 
-1629897617 c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\services.h
+1629926335 c:\users\user\desktop\my projects\m.i.a tasks\task 1.1\services.h
 	"Account.h"
 	<iostream>
 	<ctime>
